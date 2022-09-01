@@ -1,4 +1,4 @@
-# Ucak-Otel
+# Ucak Otel
 Ucak Otel 
 Turizm sezonunun acilmasi ile birlikte artan turist sayisi  otellerinde artmasina neden oluyor. Bu esnada misafirlerine farkli hizmet sunmak isteyen isletmeciler alternatifler bakiyor. UCAK OTEL projesi turkiyede bir ilk olacaktir. Dunyada ucak otel ornekleri olsa bile sinirli sayida kalmaktadir.
 Bilindigi uzere Turkiyede bir cok ucak restoran ve ucak kafe yapilmistir. Buyuk bir bolumunu tarafimizdan tamamlanan bu projelerin ardindan  bizi ucak otel projesi yapimina itmistir.Yapilancak bir ucak oteli ile tum dunyada adinizdan bahsettirebileceginiz bir projede karsiligini ziyaretci olarak alacaksiniz. Gerekli girimler yapildiginda ucak otel icin  sponsorluklar bulabilir maliyetlerinizi dusurebilirsiniz. Son zamanlarda artan Airbnb ile sadece butuk bir ucak otel yapilabilecegi gibi ek bir bina ile ucakgin konsempt seklinde tasarlanabilir.
